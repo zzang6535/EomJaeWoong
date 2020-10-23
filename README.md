@@ -5,6 +5,10 @@
 ### Jaewoong Eom
 
 Hi! I'm interested in Backend, server programming!
+- Backend
+- Native Server
+- MSA
+- C++, Java, Javascript
 
 
 ### Experienced 🌱
