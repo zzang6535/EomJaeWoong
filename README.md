@@ -5,11 +5,6 @@
 ### Jaewoong Eom
 
 Hi! I'm interested in Backend, server programming!
-- Backend
-- Native Server
-- MSA
-- C++, Java, Javascript
-
 
 ### Experienced 🌱
 - SSAFY 교육과정 (2020.07.06 ~ ) - <small>Samsung</small>
